@@ -1,5 +1,5 @@
 
-ship "Cyclops"
+ship "Cyclops Battleship"
 	plural "Cyclopses"
 	sprite "ship/cyclops"
 	attributes
@@ -27,3 +27,7 @@ ship "Cyclops"
 		Thermal Wave Cannon
 		Partizan Mass Driver 2
 		Halberd Mass Driver 4
+
+ship "Gorgon Destroyer"
+	plural "Gorgons"
+	sprite "ship/gorgon"
