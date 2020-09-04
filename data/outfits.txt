@@ -102,3 +102,23 @@ outfit "Pulse Cannon Submunition"
         "safe"
 
 outfit "Pulse Artillery Battery"
+
+outfit "Partizan Mass Driver"
+
+outfit "Halberd Mass Driver"
+
+outfit "Glaive Mass Driver"
+
+outfit "Partizan Turret"
+
+outfit "Halberd Turret"
+
+outfit "Glaive Turret" 
+
+outfit "Ionic Wave Cannon"
+
+outfit "Thermal Wave Cannon"
+
+outfit "Gorgon's Gaze"
+
+outfit "Gorgon's Bite"
