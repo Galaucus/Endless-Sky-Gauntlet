@@ -1,0 +1,69 @@
+I. Goals
+-Provide repeatable end-game content.
+	-This content will largely take the form of a gauntlet. Missions are structured around the player being given a handful of keys to enter the nebula. 
+
+-Fully kitting out a ship should require a bit of a grind
+
+-The grind should actually be fun, not frustrating; focus on skill instead of RNG
+	-Getting loot out is best done with a freighter, but heavy freighters are too vulnerable. This rewards nimble/up-gunned freighters, or cargo-modified warships.
+
+	-The player will need a transport or marine-oriented warship in order to capture
+	vessels. Exit should only be possible after completing mission objectives or aborting in order to prevent farms.
+	
+	-Give ships a large disable window, no random boarding failure. Getting loot or spending crew boarding a ship is a decision point, not a lucky break.
+
+II. Ships
+	Cyclops Battleship
+		Superheavy Warship
+		D Speed
+		C Turning
+		Excels at engaging superheavies and heavy warships
+		Vulnerable to fighter wings and light warships
+		Only appears as a nebula boss
+		2 Spinal Mounts (Plasma+Ion Helix Guns)
+		4 Turrets (Artillery)
+		
+	Echidna Supercarrier
+		Superheavy Warship
+		D Speed
+		D Turning
+		Excels at engaging multiple heavy warships
+		Vulnerable to light warships/strong anti-fighter outfitting
+		Only appears as a nebula boss
+		6 Turrets (Antimissile/Plinker mix)
+		8 Fighter Bays
+		12 Drone Bays
+	
+	[Placeholder] Cruiser
+		D Speed
+		C Turning
+		Excels at killing medium warships
+		Vulnerable to fighter wings and light warships
+		3 Gun Ports (
+	
+	Gorgon Destroyer
+		Medium Warship
+		C Speed
+		B Turning
+		Light warship killer
+		Vulnerable to artillery and kiting
+		1 Spinal Mount (Tractor Beam)
+		4 Gun Ports (Mauler)
+		2 Turrets (Blaster)
+		
+	Hydra Corvette
+		Light Warship
+		A Speed
+		B Turning
+		Fighter killer
+		Vulnerable to heavier vessels
+		2 Gun Ports (Plinker missiles)
+		2 Turrets (Plinker) 
+
+III. Outfits
+
+IV. Lore
+
+V. Missions
+
+VI. Integration to other regions
