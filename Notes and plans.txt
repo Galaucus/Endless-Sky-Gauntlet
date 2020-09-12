@@ -34,12 +34,32 @@ II. Ships
 		8 Fighter Bays
 		12 Drone Bays
 	
-	[Placeholder] Cruiser
+	Titan Cruiser
+		Heavy Warship
 		D Speed
 		C Turning
 		Excels at killing medium warships
 		Vulnerable to fighter wings and light warships
-		3 Gun Ports (
+		3 Gun Ports (Artillery Missiles)
+		6 Turrets (Beams)
+		
+	Hecatoncheire Cruiser
+		Heavy Warship
+		C Speed
+		C Turning
+		Brawler with a deadly frontal arc
+		Dies to what it can't catch up to or maneuver to face
+		8 Gun Ports (Mauler/Beam)
+		2 Turrets (Blaster)
+		
+	Scylla Destroyer
+		Medium Warship
+		C Speed
+		C Turning
+		Gun platform. Flak variant counters fighters, artillery variant counters light warships.
+		Vulnerable to medium+ warships
+		2 Gun Ports (Missiles)
+		5 Turrets (4 Artillery/Plinker + 1 Antimissile)
 	
 	Gorgon Destroyer
 		Medium Warship
@@ -59,11 +79,78 @@ II. Ships
 		Vulnerable to heavier vessels
 		2 Gun Ports (Plinker missiles)
 		2 Turrets (Plinker) 
+	
+	Minotaur Corvette
+		Light Warship
+		B Speed
+		B Turning
+		Heavy warship killer
+		Vulnerable to fighters and light warships
+		6 Gun Ports (Mauler/Beam)
+		1 Turret (Antimissile)
+	
+	Pegasus Bomber
+		Interceptor
+		B Speed
+		C Turning
+		Medium+ Warship killer
+		Vulnerable to space superiority fighters/light warships
+		4 Gun Ports (2 Maulers, 2 single-shot bombs)
+		1 Turret (Plinker)
+		
+	Harpy Fighter
+		Fighter
+		A Speed
+		A Turning
+		Space superiority fighter
+		Vulnerable to light warships
+		2 Gun Ports (1 Plinker Gun, 1 Plinker Missile)
+		-Mauler variant uses only one of the slots for a large rocket pod
+	
+	Shade Drone
+		Drone
+		B Speed
+		A Turning
+		Suicide drone
+		Vulnerable to fighters, light warships
+		1 Gun Port (Single-shot suicide bomb)
 
 III. Outfits
 
 IV. Lore
+	
+	Hyper-isolationist species living in a green-tinged nebula. Fully hostile to the player.
+	Refugee/Exile/Rebel faction sides with the player after making contact with captives from the first expedition into the wormhole. Rebels assign the player targets and provide the keystones needed to get in/out of the nebula. 
+	
+	Consider making the isolationist former Pug thralls. They played along for some time, but eventually decided enough was enough. Rather than follow the wormhole to their new assignment they stayed put, purposefully severing the only wormhole leading out.
+		-The Pug abandoned them and created the Wanderers instead?
+		-They're a faction of Wanderers from a handful of molt-cycles ago who decided to stay in their homes rather than move on?
+		-They're a military reserve being kept bottled by the Pug. Though the Pug seem more than capable of fighting themselves, so... Probably not this.
+		-They purposefully rebelled against the Pug and were locked away as punishment?
+	
+	At any rate, the governing regime is so thoroughly isolationist that they hunt down and kill anyone with the knowledge to make a quantum key that allows passage through the wormhole. This knowledge is passed down from refugee to refugee, with each generation crafting keys, escaping, then destroying them so that they can't be followed. As such, the refugee faction is only willing to *lend* keys to the player, requiring their return at the end of the mission.
+	
 
 V. Missions
 
+	Get to the center, kill the boss
+	-Fairly straightforward. Player will be bottlenecked by lack of hyperlinks and wormhole-based transit, possibly defense stations guarding each wormhole. This requires them to actually fight their way to the boss.
+	
+	Refugee rescue
+	-Board OR kill the prison transport
+	-Big rep gain for boarding it and escaping
+	-Refugee faction will accept the death of their comrades as better than imprisonment, but will act glum.
+	
+	Smuggling goods/people
+	-Move goods/VIPs from one refugee faction stronghold to another, OR to a regime-controlled planet
+	-You'll be under attack the entire way. This isn't so much smuggling as transport through hostile territory. 
+	
+	Evacuation
+	-Fight your way to a planet
+	-Defeat its defense fleet
+	-Land, fill all your bunks with refugees
+	-Escape the nebula
+
 VI. Integration to other regions
+
+	Wormhole to the region links to Aki'il
