@@ -11,111 +11,229 @@ I. Goals
 	vessels. Exit should only be possible after completing mission objectives or aborting in order to prevent farms.
 	
 	-Give ships a large disable window, no random boarding failure. Getting loot or spending crew boarding a ship is a decision point, not a lucky break.
+	
+	-Themes to explore can include the necessary ruthlesness in fighting against an entrenched empire, trust and suspicion if Regime agents infiltrate the Refugees, and militancy vs secrecy. Having them serve as an aggressive counterpoint to the Remnant's isolation could be interest - both are small offshoots trying to survive.
 
 II. Ships
-	Cyclops Battleship
-		Superheavy Warship
-		D Speed
-		C Turning
-		Excels at engaging superheavies and heavy warships
-		Vulnerable to fighter wings and light warships
-		Only appears as a nebula boss
-		2 Spinal Mounts (Plasma+Ion Helix Guns)
-		4 Turrets (Artillery)
+	Regime Navy	
+		Cyclops Battleship
+			Superheavy Warship
+			D Speed
+			C Turning
+			Excels at engaging superheavies and heavy warships
+			Vulnerable to fighter wings and light warships
+			Only appears as a nebula boss
+			2 Spinal Mounts (Plasma+Ion Helix Guns)
+			4 Turrets (Artillery)
+			
+		Echidna Supercarrier
+			Superheavy Warship
+			D Speed
+			D Turning
+			Excels at engaging multiple heavy warships
+			Vulnerable to light warships/strong anti-fighter outfitting
+			Only appears as a nebula boss
+			6 Turrets (Antimissile/Plinker mix)
+			8 Fighter Bays
+			12 Drone Bays
 		
-	Echidna Supercarrier
-		Superheavy Warship
-		D Speed
-		D Turning
-		Excels at engaging multiple heavy warships
-		Vulnerable to light warships/strong anti-fighter outfitting
-		Only appears as a nebula boss
-		6 Turrets (Antimissile/Plinker mix)
-		8 Fighter Bays
-		12 Drone Bays
-	
-	Titan Cruiser
-		Heavy Warship
-		D Speed
-		C Turning
-		Excels at killing medium warships
-		Vulnerable to fighter wings and light warships
-		3 Gun Ports (Artillery Missiles)
-		6 Turrets (Beams)
+		Titan Cruiser
+			Heavy Warship
+			D Speed
+			C Turning
+			Excels at killing medium warships
+			Vulnerable to fighter wings and light warships
+			3 Gun Ports (Artillery Missiles)
+			6 Turrets (Beams)
+			
+		Scylla Carrier
+			Heavy Warship
+			C Speed
+			D Turning
+			Space superiority or anti-cruiser (depends if fighters are plinkers or maulers)
+			Vulnerable to direct engagement
+			6 Fighter Bays
+			6 Drone Bays
+			2 Gun Ports (Artillery Missiles)
+			4 Turrets (Plinker/Antimissile Mix)
+			
+		Hecatoncheire Cruiser
+			Heavy Warship
+			C Speed
+			C Turning
+			Brawler with a deadly frontal arc
+			Dies to what it can't catch up to or maneuver to face
+			8 Gun Ports (Mauler/Beam)
+			2 Turrets (Blaster)
+			
+		Charybydis Destroyer
+			Medium Warship
+			C Speed
+			C Turning
+			Gun platform. Flak variant counters fighters, artillery variant counters light warships.
+			Vulnerable to medium+ warships
+			2 Gun Ports (Missiles)
+			5 Turrets (4 Artillery/Plinker + 1 Antimissile)
 		
-	Hecatoncheire Cruiser
-		Heavy Warship
-		C Speed
-		C Turning
-		Brawler with a deadly frontal arc
-		Dies to what it can't catch up to or maneuver to face
-		8 Gun Ports (Mauler/Beam)
-		2 Turrets (Blaster)
+		Gorgon Destroyer
+			Medium Warship
+			C Speed
+			B Turning
+			Light warship killer
+			Vulnerable to artillery and kiting
+			1 Spinal Mount (Tractor Beam)
+			4 Gun Ports (Mauler)
+			2 Turrets (Blaster)
+			
+		Hydra Corvette
+			Light Warship
+			A Speed
+			B Turning
+			Fighter killer
+			Vulnerable to heavier vessels
+			2 Gun Ports (Plinker missiles)
+			2 Turrets (Plinker) 
 		
-	Scylla Destroyer
-		Medium Warship
-		C Speed
-		C Turning
-		Gun platform. Flak variant counters fighters, artillery variant counters light warships.
-		Vulnerable to medium+ warships
-		2 Gun Ports (Missiles)
-		5 Turrets (4 Artillery/Plinker + 1 Antimissile)
-	
-	Gorgon Destroyer
-		Medium Warship
-		C Speed
-		B Turning
-		Light warship killer
-		Vulnerable to artillery and kiting
-		1 Spinal Mount (Tractor Beam)
-		4 Gun Ports (Mauler)
-		2 Turrets (Blaster)
+		Minotaur Corvette
+			Light Warship
+			B Speed
+			B Turning
+			Heavy warship killer
+			Vulnerable to fighters and light warships
+			6 Gun Ports (Mauler/Beam)
+			1 Turret (Antimissile)
 		
-	Hydra Corvette
-		Light Warship
-		A Speed
-		B Turning
-		Fighter killer
-		Vulnerable to heavier vessels
-		2 Gun Ports (Plinker missiles)
-		2 Turrets (Plinker) 
-	
-	Minotaur Corvette
-		Light Warship
-		B Speed
-		B Turning
-		Heavy warship killer
-		Vulnerable to fighters and light warships
-		6 Gun Ports (Mauler/Beam)
-		1 Turret (Antimissile)
-	
-	Pegasus Bomber
-		Interceptor
-		B Speed
-		C Turning
-		Medium+ Warship killer
-		Vulnerable to space superiority fighters/light warships
-		4 Gun Ports (2 Maulers, 2 single-shot bombs)
-		1 Turret (Plinker)
+		Pegasus Bomber
+			Interceptor
+			B Speed
+			C Turning
+			Medium+ Warship killer
+			Vulnerable to space superiority fighters/light warships
+			4 Gun Ports (2 Maulers, 2 single-shot bombs)
+			1 Turret (Plinker)
+			
+		Pegasus Interceptor
+			Interceptor
+			A Speed
+			B Turning
+			Heavy escort interceptor
+			Vulnerable to light warships
+			3 Gun Ports (Beam, 2 Plinker Missiles)
+			
+		Harpy Fighter
+			Fighter
+			A Speed
+			A Turning
+			Space superiority fighter
+			Vulnerable to light warships
+			2 Gun Ports (1 Plinker Gun, 1 Plinker Missile)
+			-Mauler variant uses only one of the slots for a large rocket pod
 		
-	Harpy Fighter
-		Fighter
-		A Speed
-		A Turning
-		Space superiority fighter
-		Vulnerable to light warships
-		2 Gun Ports (1 Plinker Gun, 1 Plinker Missile)
-		-Mauler variant uses only one of the slots for a large rocket pod
+		Shade Drone
+			Drone
+			B Speed
+			A Turning
+			Suicide drone
+			Vulnerable to fighters, light warships
+			1 Gun Port (Single-shot suicide bomb)
 	
-	Shade Drone
-		Drone
-		B Speed
-		A Turning
-		Suicide drone
-		Vulnerable to fighters, light warships
-		1 Gun Port (Single-shot suicide bomb)
+	Civilian/Regime Logistics
+		Prison Transport
+			Heavy Transport
+			D Speed
+			D Turning
+			Well armored transport vessel. Tends to self-destruct, well-escorted.
+			Plunderable isolation pods which can be returned to the refugees for rewards.
+			6 Turrets (2 Antimissile, 4 Blaster)
+			
+		Military Shuttle
+			Light Transport
+			A Speed
+			C Turning
+			Fast and well-shielded. Tends to have a substantial Pegasus/Hydra escort.
+			Worth looting. Good engines, lootable intelligence, capturable VIPs?
+			2 Turrets (Antimissile, Blaster)
+			
+		Military Transport
+			Medium Freighter
+			C Speed
+			C Turning
+			A decently protected, decently agile transport.
+			A mediocre loot option. Might have some goods which the refugees will buy.
+			3 Turrets (Antimissile, 2 Plinker)
+		
+		Transport Technical
+			Medium Freighter
+			C Speed
+			C Turning
+			Military Transport that's been modified by rebels. More armor, more guns, more sluggish
+			Not capturable. Becomes available at the shipyard as the campaign progresses.
+			2 Gun Ports
+			3 Turrets
+		
+		Freight Pod
+			Light Freighter
+			C Speed
+			C Turning
+			Mostly exists to provide flavor. Only spawns as civilian, floats around.
+			Becomes a valid target if the player influences the refugees to embrace piracy.
+			Unarmed
+			
+		Transport Pod
+			Light Transport
+			C Speed
+			C Turning
+			Mostly exists to provide flavor. Only spawns as civilian, floats around.
+			Becomes a valid target if the player influences the refugees to embrace terrorism.
+			Unarmed
+			
+		Suicide Pod
+			Light Transport
+			B Speed
+			C Turning
+			Begins to spawn under the refugee faction if they embrace "for the greater good" ideals. Flings itself into Regime ships and explodes.
+			1 Gun Port (Single-shot suicide bomb)
+			
+		
 
 III. Outfits
+
+	Flak Artillery Cannon
+		Plinker, long range, used on larger ships to screen against waves of fighters
+	
+	Pulse Artillery Cannon
+		Upgraded FAC that can be looted from deeper in the Nebula or as a special reward.
+		
+	Plinker Missile
+		Kills fighters. Fast, good turning, modest damage. Low maximum DPS, but basically guarantees hits. 
+	
+	[Polearm] Mass Driver
+		Artillery guns of various caliber. Fires a fast traveling slug at long range. Low refire rate; generally optimized for combating medium warships. Anything smaller should be able to dodge - anything larger you don't need the accuracy and could instead target with beams.
+	
+		The smallest variety might qualify as plinkers instead of artillery.
+		
+	[Axe] Railgun
+		Beam-style guns that are just a torrent of explosive slugs with very high accuracy and speed. Whatever this is mounted on should have absolutely terrible rotational speed. This is made for cracking open capital ships and stationary installations - it should be very difficult to bring to bear on anything agile. High heat, high energy use.
+		
+		Should be used sparingly in fleet deployments. Whatever has it will be a critical threat, but also prone to overheating. Sustained fire is absolutely deadly.
+		
+	Artillery missile
+		It's a torpedo. Good speed and damage, low rate of fire and turn rate. Better against medium+ warships. Doesn't quite have the oomph to tear apart heavies alone - you'll need beams or maulers for that. 
+	
+	Ionic Wave Cannon
+		Spinal mount gun that deals massive amounts of ion effect. Actually produces energy when fired, but also massive amounts of heat.
+	
+	Thermal Wave Cannon
+		Spinal mount gun that deals massive amounts of heat damage. Consumes huge amounts of energy when fired, while significantly cooling your ship.
+		
+	Gorgon's Gaze
+		Tractor beam. Weakens engines and tugs the target close. Pair with mauler weapons for maximum effect. 
+		
+	Snakebite Rockets
+		Short range barrage rockets with a low propellant load and loads of explosives packed in. High rate of fire, minimal tracking, pathetic range, ruinous damage. A fighter wing armed with these should be able to tear apart anything they can get close to. 
+		
+	Fissioncracker Autocannon
+		Mauler. Mostly inferior to the Snakebite, but doesn't have ammo restrictions. Rapidfires ionizing slugs at a target. Good hull damage. Low projectile speed makes it impractical for dogfighting, but it shoots a bit further than other maulers. 
 
 IV. Lore
 	
@@ -133,24 +251,66 @@ IV. Lore
 
 V. Missions
 
-	Get to the center, kill the boss
-	-Fairly straightforward. Player will be bottlenecked by lack of hyperlinks and wormhole-based transit, possibly defense stations guarding each wormhole. This requires them to actually fight their way to the boss.
+	Repeatables:
+		
+		Get to the center, kill the boss
+			-Fairly straightforward. Player will be bottlenecked by lack of hyperlinks and wormhole-based transit, possibly defense stations guarding each wormhole. This requires them to actually fight their way to the boss.
+		
+		Refugee rescue
+			-Board OR kill the prison transport
+			-Big rep gain for boarding it and escaping
+			-Refugee faction will accept the death of their comrades as better than imprisonment, but will act glum. Maybe count as mission success and pays out but lose rep?
+			
+		Smuggling goods/people
+			-Move goods/VIPs from one refugee faction stronghold to another, OR to a regime-controlled planet
+			-You'll be under attack the entire way. This isn't so much smuggling as transport through hostile territory. 
+			
+		Evacuation
+			-Fight your way to a planet
+			-Defeat its defense fleet
+			-Land, fill all your bunks with refugees
+			-Escape the nebula
+			
+	Campaign:
 	
-	Refugee rescue
-	-Board OR kill the prison transport
-	-Big rep gain for boarding it and escaping
-	-Refugee faction will accept the death of their comrades as better than imprisonment, but will act glum.
-	
-	Smuggling goods/people
-	-Move goods/VIPs from one refugee faction stronghold to another, OR to a regime-controlled planet
-	-You'll be under attack the entire way. This isn't so much smuggling as transport through hostile territory. 
-	
-	Evacuation
-	-Fight your way to a planet
-	-Defeat its defense fleet
-	-Land, fill all your bunks with refugees
-	-Escape the nebula
+		Campaign starts with the player boarding a derelict ship in Aki'il. This ship will give the player a Damaged Quantum Key.
+		
+		Player takes the Damaged Quantum Key to the Remnant, who take it for further study.
+		
+		After a week or so the Remnant notify the player that they've sent in an exploratory vessel using the restored key. The fleet is reported as having lost contact a day after entering the wormhole. 
+		
+		Another week passes and a signal is received from the other side of the wormhole. The sender claims to represent the government of the systems on the other side of the wormhole. They're holding the Remnant explorers hostage on our side of the wormhole and demand food and medical supplies for their safe return. The Remnant agree to provide the necessary supplies and ask that the player scan the ship - which is a fairly rickety civilian transport that's clearly taken damage from Regime forces during its exodus.
+			A) Player takes hostile action
+				-Remnant is pissed
+				-Refugees are pissed
+				-Hostages are killed if you board the ship
+				-Why did you think this would be a good idea?
+			
+			B) Player completes the trade and scans the ship
+				-As branch C, but upon reporting back to the Remnant insight is offered upon the state of refugee tech.
+				
+			C) Player completes the trade
+				-During the prisoner/supply exchange it becomes clear that the aliens are in extremely rough shape. Their ship has had damaged sections cordoned off, appears to be under-crewed, and a good many of the crew are walking wounded and displaying signs of malnourishment. They've been on the run for a while. 
+				-The aliens are generally gruff and uncommunicative, but allow the player and the hostages to leave without incident. 
+				-The damaged ship lands on the planet. 
+				
+		Player lands on the planet to seek out the aliens. If more than a week has passed since the hostage exchange, update the planet's description to make mention of a ramshackle settlement constructed from the ship's scrap.
+		
+		Expository conversation takes place; lay out the refugee's side of the story, hint a bit at the nature of their species as the Pug's castoffs. 
+		
+		Refugees offer their first mission: Liberate some of their comrades who have the knowledge to create more Quantum Keys. They give you the key from their now-wrecked ship.
+			
+			-Short gauntlet run into a cluster neighboring the start point. Disable the prison transport and board it. This would be a good chance to include named characters, such as a commando leader or a scientist. 
+		
+		Return to the refugee camp. The influx of new people is enough to make it a small village instead of just a few scrap-shacks. The refugees reclaim their key and hold it for safekeeping. Repeatable missions are added to the job board which allow the player to enter the nebula. 
+		
+		At some point diplomacy with the Remnant needs to come into play.
+		
+		Add some sort of news scanner to the spaceport that displays propaganda broadcasts from the Regime.
+		
 
 VI. Integration to other regions
 
-	Wormhole to the region links to Aki'il
+	Short term storytelling potential is the struggles of setting up a refugee society and trying to liberate those still trapped within, alongside more martial escapades like hunting down and eliminating targets in the gauntlet.
+	
+	Long term storytelling potential is the Remnant having their first case of non-hostile foreign contact, the potential uncorking of a species the Pug had sealed away, and whatever - if anything - this had to do with the Builders and Ka'het.

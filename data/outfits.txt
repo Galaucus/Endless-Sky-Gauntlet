@@ -121,4 +121,4 @@ outfit "Thermal Wave Cannon"
 
 outfit "Gorgon's Gaze"
 
-outfit "Gorgon's Bite"
+outfit "Snakebite Rockets"
