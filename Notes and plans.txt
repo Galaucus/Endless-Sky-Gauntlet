@@ -103,7 +103,7 @@ II. Ships
 			6 Gun Ports (Mauler/Beam)
 			1 Turret (Antimissile)
 		
-		Pegasus Bomber
+		Centaur Bomber
 			Interceptor
 			B Speed
 			C Turning
@@ -112,7 +112,7 @@ II. Ships
 			4 Gun Ports (2 Maulers, 2 single-shot bombs)
 			1 Turret (Plinker)
 			
-		Pegasus Interceptor
+		Nemean Interceptor
 			Interceptor
 			A Speed
 			B Turning

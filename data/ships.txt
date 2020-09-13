@@ -1,8 +1,11 @@
 
+//REGIME NAVY
+
 ship "Cyclops Battleship"
 	plural "Cyclopses"
 	sprite "ship/cyclops"
 	attributes
+		category "Heavy Warship"
 		cost 200000000        
         shields 8000        
         hull 90000        
@@ -28,6 +31,94 @@ ship "Cyclops Battleship"
 		Partizan Mass Driver 2
 		Halberd Mass Driver 4
 
+ship "Echidna Supercarrier"
+	plural "Echidnae"
+	sprite "ship/echidna"
+	attributes
+		category "Heavy Warship"
+	
+ship "Titan Cruiser"
+	plural "Titans"
+	sprite "ship/titan"
+	attributes
+		category "Heavy Warship"
+		
+ship "Scylla Carrier"
+	plural "Scyllae"
+	sprite "ship/scylla"
+	attributes
+		category "Heavy Warship"
+		
+ship "Hecatoncheire Cruiser"
+	plural "Hecatoncheires"
+	sprite "ship/hecatoncheire"
+	attributes
+		category "Heavy Warship"
+		
+ship "Charybydis Destroyer"
+	plural "Charybydae"
+	sprite "ship/charybydis"
+	attributes
+		category "Medium Warship"
+		
 ship "Gorgon Destroyer"
 	plural "Gorgons"
 	sprite "ship/gorgon"
+	attributes
+		category "Medium Warship"
+		
+ship "Hydra Corvette"
+	plural "Hydras"
+	sprite "ship/hydra"
+	attributes
+		category "Light Warship"
+		
+ship "Minotaur Corvette"
+	plural "Minotaurs"
+	sprite "ship/minotaur"
+	attributes
+		category "Light Warship"
+		
+ship "Centaur Bomber"
+	plural "Centaurs"
+	sprite "ship/centaur"
+	attributes
+		category "Interceptor"
+		
+ship "Nemean Interceptor"
+	plural "Nemeans"
+	sprite "ship/nemean"
+	attributes
+		category "Interceptor"
+		
+ship "Harpy Fighter"
+	plural "Harpies"
+	sprite "ship/harpy"
+	attributes
+		category "Fighter"
+		
+ship "Shade Drone"
+	plural "Shades"
+	sprite "ship/shade"
+	attributes
+		category "Drone"
+		
+//LOOT SHIPS AND CIVILIANS
+
+ship "Cerberus Prison Hulk"
+	plural "Cerberus"
+	sprite "ship/cerberus"
+	attributes
+		category "Transport"
+		
+ship "Pegasus Courier"
+	plural "Pegasi"
+	sprite "ship/pegasus"
+	attributes
+		category "Transport"
+		
+ship "Atlas Transport"
+	plural "Atlas"
+	sprite "ship/atlas"
+	attributes
+		category "Medium Freighter"
