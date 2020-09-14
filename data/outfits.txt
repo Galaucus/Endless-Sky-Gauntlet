@@ -49,76 +49,20 @@ outfit "Flak Cannon Submunition"
         "blast radius" 100
         "safe"
 
-outfit "Flak Artillery Battery"
-
-outfit "Pulse Artillery Cannon"
-  category "Turrets"
-    cost 10
-    thumbnail "placeholder"
-    "mass" 63
-    "outfit space" -63
-    "weapon capacity" -63
-    "turret mounts" -1
-    "required crew" 3
-    weapon
-        sprite "placeholder"
-            "frame rate 5
-            "no repeat"
-        "fire effect" "jupiter gun fire"
-        "hardpoint sprite" "placeholder"
-        "hardpoint offset" 7. 
-        "inaccuracy" 45
-        "turret turn" 2.3
-        "velocity" 17
-        "random velocity" 3
-        "lifetime" 50
-        "reload" 10
-        "firing energy" 24
-        "firing heat" 50
-        "hit effect" "jupiter gun hit"
-        "live effect" "nuke trail" 10
-        "submunition" "Pulse Cannon Submunition" 8
-        "stream"
-#
-outfit "Pulse Cannon Submunition"
-    weapon
-        sprite "placeholder"
-            "frame rate" 1
-            "no repeat"
-        "hit effect" "large explosion"
-        "die effect" "small explosion"
-        "inaccuracy" 90
-        "velocity" -7
-        "random velocity" 2
-        "lifetime" 5
-        "random lifetime" 5
-        "acceleration" .00001
-        "drag" .05
-        "shield damage" 100
-        "hull damage" 100
-        "hit force" 2
-        "missile strength" 22
-        "blast radius" 100
-        "safe"
-
-outfit "Pulse Artillery Battery"
-
-outfit "Partizan Mass Driver"
-
-outfit "Halberd Mass Driver"
-
-outfit "Glaive Mass Driver"
-
-outfit "Partizan Turret"
-
-outfit "Halberd Turret"
-
-outfit "Glaive Turret" 
-
-outfit "Ionic Wave Cannon"
-
-outfit "Thermal Wave Cannon"
-
-outfit "Gorgon's Gaze"
-
-outfit "Snakebite Rockets"
+outfit "Shade Core"
+	category Guns
+	thumbnail outfit/unknown
+	gun ports -1
+	"kamikaze" 1
+	weapon
+		"hit effect" "heavy rocket hit"
+		"die effect" "heavy rocket hit"
+		"inaccuracy" 1
+		"velocity" 1
+		"lifetime" 2
+		"reload" 100
+		"blast radius" 100
+		"shield damage" 9000
+		"hull damage" 3500
+		"disruption damage" 30
+	
