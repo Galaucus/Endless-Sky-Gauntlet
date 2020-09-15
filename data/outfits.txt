@@ -55,14 +55,23 @@ outfit "Shade Core"
 	gun ports -1
 	"kamikaze" 1
 	weapon
-		"hit effect" "heavy rocket hit"
-		"die effect" "heavy rocket hit"
 		"inaccuracy" 1
 		"velocity" 1
 		"lifetime" 2
+		"range" 100
 		"reload" 100
+		"blast radius" 1
+		submunition "Shade Submunition"
+#
+outfit "Shade Submunition"
+	weapon
+		lifetime 1
+		"hit effect" "heavy rocket hit"
+		"trigger radius" 150
 		"blast radius" 100
-		"shield damage" 9000
-		"hull damage" 3500
+		"shield damage" 10000
+		"hull damage" 9000
 		"disruption damage" 30
+		"heat damage" 2000
+		no damage scaling
 	
