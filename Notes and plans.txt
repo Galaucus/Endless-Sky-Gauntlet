@@ -15,6 +15,11 @@ I. Goals
 	-Themes to explore can include the necessary ruthlesness in fighting against an entrenched empire, trust and suspicion if Regime agents infiltrate the Refugees, and militancy vs secrecy. Having them serve as an aggressive counterpoint to the Remnant's isolation could be interest - both are small offshoots trying to survive.
 
 II. Ships
+
+	The general aesthetic for vessels is:
+	-A primary hull which hosts main weapons, and tends to be well-protected by large armored plates which extend in front and potentiallly around the ship. Vessels should look like they're carrying a shield in front of them/to one side.
+	-Additonal hull(s) host the engines, reactor, and potentially turrets. These are also somewhat armored, but to a lesser extent. Reactor crew have rather terrible working conditions and a short life expectancy - to prevent rebellion they're sealed off from the rest of the ship. 
+
 	Regime Navy	
 		Cyclops Battleship
 			Superheavy Warship
@@ -248,6 +253,10 @@ IV. Lore
 	
 	At any rate, the governing regime is so thoroughly isolationist that they hunt down and kill anyone with the knowledge to make a quantum key that allows passage through the wormhole. This knowledge is passed down from refugee to refugee, with each generation crafting keys, escaping, then destroying them so that they can't be followed. As such, the refugee faction is only willing to *lend* keys to the player, requiring their return at the end of the mission.
 	
+	Planets are beautiful, paradise-like worlds maintained through the ruthless exploitation of citizenry. A quite literal social contract exists which grants citizens rights, but at the cost of always being subject to press-gang into effective slavery. These people form the economic backbone of the society, suffering and dying so that everyone else can thrive. Slaves have a short life expectancy on account of having to work with unshielded reactors or in generally dangerous conditions; rebellions are ruthlessly crushed. The average citizen is content, healthy, and well-fed.
+	
+	The rebel faction, on the other hand, is going to generally be cancer-ridden, maimed, malnourished, and generally in rough shape. The most sick generally volunteer for commando missions, seeing a quick death for a noble cause as a preferable alternative to wasting away. They all remember how good life was before impressment - the underclass is not hereditary, but based on random abduction. Some might see subjugation and authoritarianism as simply being the natural order of things, and only wish to be returned to the top of the stack - others might take a more revolutionary approach. The player's interactions will potentially shape how the new society arranges itself. 
+	
 
 V. Missions
 
@@ -304,7 +313,7 @@ V. Missions
 		
 		Return to the refugee camp. The influx of new people is enough to make it a small village instead of just a few scrap-shacks. The refugees reclaim their key and hold it for safekeeping. Repeatable missions are added to the job board which allow the player to enter the nebula. 
 		
-		At some point diplomacy with the Remnant needs to come into play.
+		At some point diplomacy with the Remnant needs to come into play. Refugees fleeing to Remnant space through the Graveyard could bring up some interesting interactions/conflict.
 		
 		Add some sort of news scanner to the spaceport that displays propaganda broadcasts from the Regime.
 		

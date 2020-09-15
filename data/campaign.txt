@@ -1,0 +1,66 @@
+
+mission "Quantum Key Recovery"
+	invisible
+	landing
+	source "Kaeyin"
+	to offer
+		has "Remnant: Key Stones: done"
+	on offer
+		conversation
+			"Upon landing you find a derelict ship. It's got a fancy rock in it."
+			choice
+				"	Mine now."
+				"	How ugly."
+					decline
+			"You yank the rock. Take it to the Remnant for analysis."
+				fail
+	to complete
+		never
+
+mission "Quantum Key Revisited"
+	invisible
+	landing
+	source "Kaeyin"
+	to offer
+		has "Quantum Key Recovery: declined"
+	on offer
+		conversation
+			`It's that ship again. What you gonna do?`
+			choice
+				`	Pillage that sucker.`
+				`	I didn't want it then, and I don't want it now.`
+					defer
+			`You yank the rock. Take it to the Remnant for analysis.`
+				fail
+	to complete
+		never
+
+mission "Quantum Key Delivery"
+	invisible
+	landing
+	source
+		governmnt "Remnant"
+	to offer
+		has
+			or
+				"Quantum Key Recovery: failed"
+				"Quantum Key Revisited: failed"
+	on offer
+		conversation
+			`You meet with some Remnant science fellas. They take the rock and say they'll look into it.`
+				fail
+
+		
+mission "Quantum Key Breakthrough"
+	invisible
+	landing
+	source
+		government "Remnant"
+	destination
+		government "Remnant"
+	to offer
+		and
+			has "Remnant: Crystal Research 7: done"
+			or
+				"Quantum Key Recovery: done"
+				"Quantum Key Revisited: done"

@@ -6,98 +6,335 @@ ship "Cyclops Battleship"
 	sprite "ship/cyclops"
 	attributes
 		category "Heavy Warship"
-		cost 200000000        
-        shields 8000        
-        hull 90000        
-        required crew 112        
-        bunks 280        
-        mass 2500        
-        drag 25        
-        heat dissipation 0.45        
-        fuel capacity 1000        
-        cargo space 200        
-        outfit space 1400        
-        weapon capacity 600        
-        engine capacity 180        
-        spinal mount 2
+		"cost" 200000000        
+        "shields" 72000        
+        "hull" 90000        
+        "required crew" 278        
+        "bunks" 312        
+        "mass" 2500        
+        "drag" 25        
+        "heat dissipation" 0.45        
+        "fuel capacity" 1000        
+        "cargo space" 200        
+        "outfit space" 1400        
+        "weapon capacity" 600        
+        "engine capacity" 180        
+        "spinal mount" 2
 	    weapon        
-            blast radius 993        
-            shield damage 19930        
-            hull damage 11965        
-            hit force 11495
+            "blast radius" 993        
+            "shield damage" 19930        
+            "hull damage" 11965        
+            "hit force" 11495
 	outits
-		Ionic Wave Cannon
-		Thermal Wave Cannon
-		Partizan Mass Driver 2
-		Halberd Mass Driver 4
+		
 
 ship "Echidna Supercarrier"
 	plural "Echidnae"
 	sprite "ship/echidna"
 	attributes
 		category "Heavy Warship"
+		"cost" 200000000
+		"shields" 60000
+		"hull" 75000
+		"required crew" 314
+		"bunks" 372
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 	
 ship "Titan Cruiser"
 	plural "Titans"
 	sprite "ship/titan"
 	attributes
 		category "Heavy Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Scylla Carrier"
 	plural "Scyllae"
 	sprite "ship/scylla"
 	attributes
 		category "Heavy Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Hecatoncheire Cruiser"
 	plural "Hecatoncheires"
 	sprite "ship/hecatoncheire"
 	attributes
 		category "Heavy Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Charybydis Destroyer"
 	plural "Charybydae"
 	sprite "ship/charybydis"
 	attributes
 		category "Medium Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Gorgon Destroyer"
 	plural "Gorgons"
 	sprite "ship/gorgon"
 	attributes
 		category "Medium Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Hydra Corvette"
 	plural "Hydras"
 	sprite "ship/hydra"
 	attributes
 		category "Light Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Minotaur Corvette"
 	plural "Minotaurs"
 	sprite "ship/minotaur"
 	attributes
 		category "Light Warship"
-		
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
+				
 ship "Centaur Bomber"
 	plural "Centaurs"
 	sprite "ship/centaur"
 	attributes
 		category "Interceptor"
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 		
 ship "Nemean Interceptor"
 	plural "Nemeans"
 	sprite "ship/nemean"
 	attributes
 		category "Interceptor"
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 		
 ship "Harpy Fighter"
 	plural "Harpies"
 	sprite "ship/harpy"
 	attributes
 		category "Fighter"
-		"drag" .75
-		"thrust" 
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 		
 ship "Shade Drone"
 	plural "Shades"
@@ -141,15 +378,75 @@ ship "Cerberus Prison Hulk"
 	sprite "ship/cerberus"
 	attributes
 		category "Transport"
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"	
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 		
 ship "Pegasus Courier"
 	plural "Pegasi"
 	sprite "ship/pegasus"
 	attributes
 		category "Transport"
+		"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		weapon
+			"blast radius"
+			"shield damage"
+			"hull damage"
+			"hit force"
+	outfits
 		
 ship "Atlas Transport"
 	plural "Atlas"
 	sprite "ship/atlas"
 	attributes
 		category "Medium Freighter"
+				"cost"
+		"shields"
+		"hull"
+		"required crew"
+		"bunks"
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
