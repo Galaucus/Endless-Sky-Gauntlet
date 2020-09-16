@@ -39,7 +39,7 @@ mission "Quantum Key Delivery"
 	invisible
 	landing
 	source
-		governmnt "Remnant"
+		government "Remnant"
 	to offer
 		has
 			or

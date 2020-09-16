@@ -27,6 +27,8 @@ shipyard "Gauntlet Test"
 	
 	"Shade Test/Fighter"
 	
+	"Battlestation"
+	
 outfitter "Gauntlet Test"
 	"Shade Core"
 	"Energy Blaster"
@@ -66,3 +68,32 @@ ship "Shade Test/Fighter"
 	gun 0 0 "Shade Core"
 	explode "tiny explosion" 30
 	explode "small explosion" 20
+	
+ship "Battlestation"
+	sprite "planet/station_2"
+	attributes
+		category "Heavy Warship"
+		"shield" 80000
+		"hull" 120000
+		"mass" 1000
+		"drag" 2000
+		"force protection" 100
+		"required crew" 2000
+		"bunks" 7000
+		"heat dissipation" 10
+		"outfit space" 3000
+		"weapon capacity" 1200
+		"thrust" 20
+		"reverse thrust" 20
+		"turn" 0.1
+		weapon
+			"blast radius" 400
+			"shield damage" 12000
+			"hull damage" 12000
+			"hit force" 1200
+	outfits
+		"Triple Plasma Core" 3
+		"Large Systems Core" 4
+		"Large Heat Shunt" 4
+		
+	
