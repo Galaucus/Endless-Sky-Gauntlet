@@ -42,6 +42,8 @@ II. Ships
 			8 Fighter Bays
 			12 Drone Bays
 		
+		Pegasus Battlecruiser
+		
 		Titan Cruiser
 			Heavy Warship
 			D Speed

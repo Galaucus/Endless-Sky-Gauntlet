@@ -43,9 +43,9 @@ ship "Echidna Supercarrier"
 		"heat dissipation"
 		"fuel capacity"
 		"cargo space"
-		"outfit space"
-		"weapon capacity"
-		"engine capacity"
+		"outfit space" 860
+		"weapon capacity" 320
+		"engine capacity" 140
 		"hull mod"
 		"systems mod"
 		"engine mod"
@@ -55,6 +55,28 @@ ship "Echidna Supercarrier"
 			"hull damage"
 			"hit force"
 	outfits
+
+ship "Pegasus Battlecruiser"
+	plural "Pegasi"
+	sprite "ship/pegasus"
+	attributes
+		category "Heavy Warship"
+		"cost" 200000000
+		"shields" 50000
+		"hull" 55000
+		"required crew" 212
+		"bunks" 237
+		"mass"
+		"drag"
+		"heat dissipation"
+		"fuel capacity"
+		"cargo space"
+		"outfit space"
+		"weapon capacity"
+		"engine capacity"
+		"hull mod"
+		"systems mod"
+		"engine mod"
 	
 ship "Titan Cruiser"
 	plural "Titans"
@@ -401,9 +423,9 @@ ship "Cerberus Prison Hulk"
 			"hit force"
 	outfits
 		
-ship "Pegasus Courier"
-	plural "Pegasi"
-	sprite "ship/pegasus"
+ship "Placeholder Courier"
+	plural "Placeholder"
+	sprite "ship/Placeholder"
 	attributes
 		category "Transport"
 		"cost"
