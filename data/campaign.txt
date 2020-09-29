@@ -137,29 +137,38 @@ mission "Quantum Key Revisited"
 	to complete
 		never
 
-mission "Quantum Key Delivery"
+mission "Quantum Key Delivery: Pre-Aeolus"
 	invisible
 	landing
-	source
-		government "Remnant"
+	source "Viminal"
 	to offer
-		has
-			or
-				"Quantum Key Recovery: failed"
-				"Quantum Key Revisited: failed"
+		or
+			has "Quantum Key Recovery: failed"
+			has "Quantum Key Revisited: failed"
 	on offer
 		conversation
 			`You meet with some Remnant science fellas. They take the rock and say they'll look into it.`
 				fail
 
-		
-mission "Quantum Key Breakthrough"
+mission "Quantum Key Delivery"
 	invisible
 	landing
+	source "Viminal"
+	to offer
+		and
+			has "Remnant: Crystal Research 1: offered"
+			or
+				has "Quantum Key Recovery: failed"
+				has "Quantum Key Revisited: failed"
+	on offer
+		conversation
+			`You meet with some Remnant science fellas. They take the rock and say they'll look into it.`
+				fail
+		
+mission "Quantum Key Breakthrough"
+	landing
 	source
-		government "Remnant"
-	destination
-		government "Remnant"
+	destination "Viminal"
 	to offer
 		and
 			has "Remnant: Crystal Research 7: done"
