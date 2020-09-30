@@ -1,3 +1,5 @@
+#Engines and Drives
+
 outfit "Jump Core"
 	category "Systems"
 	cost 1000000
@@ -7,6 +9,36 @@ outfit "Jump Core"
 	"jump speed" .75
 	"jump fuel" 100
 	"jump drive" 1
+
+outfit "Zephyrus-class Thruster"
+category "Engines"
+	"cost" 135000
+	thumbnail "outfit/tiny radiant thruster"
+	"mass" 12
+	"outfit space" -12
+	"engine capacity" -12
+	"thrust" 6.6
+	"thrusting energy" 0.5
+	"thrusting heat" 0.9
+	"cooling" 1.5
+	"flare sprite" "effect/gauntlet flare/tiny"
+		"frame rate" 12
+	"flare sound" "plasma tiny"
+	description "This is the tiniest Wanderer engine. Like all their engines, it works in part by radiating excess heat, and as a result it doubles as a cooler for your ship."
+
+outfit "Livas-class Booster"
+
+outfit "Notus-class Thruster"
+
+outfit "Sirokos-class Booster"
+
+outfit "Levante-class Thruster"
+
+outfit "Graigos-class Booster"
+
+outfit "Boreas-class Thruster"
+
+outfit "Mistral-class Booster"
 
 outfit "Flak Artillery Cannon"
   category "Turrets"
