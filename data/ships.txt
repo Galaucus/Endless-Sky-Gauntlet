@@ -195,28 +195,46 @@ ship "Gorgon Destroyer"
 	sprite "ship/gorgon"
 	attributes
 		category "Medium Warship"
-		"cost"
-		"shields"
-		"hull"
-		"required crew"
-		"bunks"
-		"mass"
-		"drag"
-		"heat dissipation"
-		"fuel capacity"
-		"cargo space"
-		"outfit space"
-		"weapon capacity"
-		"engine capacity"
+		"cost" 1
+		"shields" 20000
+		"hull" 40000
+		"required crew" 61
+		"bunks" 112
+		"mass" 320
+		"drag" 6.2
+		"heat dissipation" 0.65
+		"fuel capacity" 600
+		"cargo space" 40
+		"outfit space"  543
+		"weapon capacity" 300
+		"engine capacity" 100
+		"spinal mount" 1
 		"hull mod"
 		"systems mod"
 		"engine mod"
 		weapon
-			"blast radius"
+			"blast radius" 280
 			"shield damage"
 			"hull damage"
 			"hit force"
 	outfits
+		"Jump Core" 3		
+	gun -58 -82
+	gun -24 -97
+	gun 24 -97
+	gun 58 -82
+	turret 0 -53.5
+	turret 0 -3.5
+	engine -48 -19
+	engine -67 -27
+	engine 48 -19
+	engine 68 -27
+	explode "small explosion" 80
+	explode "medium explosion" 50
+	explode "large explosion" 25
+	"final explode" "final explosion medium" 1
+	description "A dedicated interdictor, the Gorgon is built around a spinally-mounted tractor beam. Standard doctrine is that the Gorgon is to be deployed to screen cruisers from harassment by anything heavier than an interceptor, but which the cruisers struggle to target with their capital-grade weapons."
+	description "A generous allotment of bunks and the tractor beam make the Gorgon a popular choice for pursuit operations. A target can be caught, disabled, and then overwhelmed with marines in short order."
 				
 ship "Hydra Corvette"
 	plural "Hydras"
