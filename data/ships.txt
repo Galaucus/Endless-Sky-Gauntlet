@@ -229,6 +229,7 @@ ship "Gorgon Destroyer"
 	engine -67 -27
 	engine 48 -19
 	engine 68 -27
+		under
 	explode "small explosion" 80
 	explode "medium explosion" 50
 	explode "large explosion" 25
