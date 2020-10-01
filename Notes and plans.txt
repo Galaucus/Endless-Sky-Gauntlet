@@ -127,7 +127,7 @@ II. Ships
 			Interceptor
 			B Speed
 			C Turning
-			Medium+ Warship killer
+			Heavy bomber
 			Vulnerable to space superiority fighters/light warships
 			4 Gun Ports (2 Maulers, 2 single-shot bombs)
 			1 Turret (Plinker)
