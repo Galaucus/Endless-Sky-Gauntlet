@@ -11,32 +11,78 @@ outfit "Jump Core"
 	"jump drive" 1
 
 outfit "Zephyrus-class Thruster"
-category "Engines"
-	"cost" 135000
-	thumbnail "outfit/tiny radiant thruster"
-	"mass" 12
-	"outfit space" -12
-	"engine capacity" -12
-	"thrust" 6.6
-	"thrusting energy" 0.5
-	"thrusting heat" 0.9
-	"cooling" 1.5
+	category "Engines"
+	"cost" 120000
+	thumbnail "outfit/tiny ion thruster"
+	"mass" 24
+	"outfit space" -24
+	"engine capacity" -20
+	"thrust" 7.5
+	"thrusting energy" .6
+	"thrusting heat" .9
+	"energy generation" .6
+	"cooling" .9
 	"flare sprite" "effect/gauntlet flare/tiny"
-		"frame rate" 12
-	"flare sound" "plasma tiny"
-	description "This is the tiniest Wanderer engine. Like all their engines, it works in part by radiating excess heat, and as a result it doubles as a cooler for your ship."
+		"frame rate" 1.2
+	"flare sound" "ion tiny"
+	description "The Thrusters Lake needs, but he deserves better."
 
 outfit "Livas-class Booster"
 
 outfit "Notus-class Thruster"
+	category "Engines"
+	"cost" 260000
+	thumbnail "outfit/small ion thruster"
+	"mass" 40
+	"outfit space" -40
+	"engine capacity" -34
+	"thrust" 14.3
+	"thrusting energy" 1.1
+	"thrusting heat" 1.7
+	"energy generation" 1.1
+	"cooling" 1.7
+	"flare sprite" "effect/gauntlet flare/small"
+		"frame rate" 1.1
+	"flare sound" "ion small"
+	description "The Thrusters Lake needs, but he deserves better."
 
 outfit "Sirokos-class Booster"
 
 outfit "Levante-class Thruster"
+	category "Engines"
+	"cost" 580000
+	thumbnail "outfit/medium ion thruster"
+	"mass" 69
+	"outfit space" -69
+	"engine capacity" -58
+	"thrust" 227.1
+	"thrusting energy" 1.9
+	"thrusting heat" 3.2
+	"energy generation" 1.9
+	"cooling" 1.7
+	"flare sprite" "effect/gauntlet flare/medium"
+		"frame rate" 1.0
+	"flare sound" "ion medium"
+	description "The Thrusters Lake needs, but he deserves better."
 
 outfit "Graigos-class Booster"
 
 outfit "Boreas-class Thruster"
+	category "Engines"
+	"cost" 1280000
+	thumbnail "outfit/large ion thruster"
+	"mass" 118
+	"outfit space" -118
+	"engine capacity" -98
+	"thrust" 51.5
+	"thrusting energy" 3.5
+	"thrusting heat" 6.2
+	"energy generation" 3.5
+	"cooling" 6.2
+	"flare sprite" "effect/gauntlet flare/large"
+		"frame rate" 0.9
+	"flare sound" "ion large"
+	description "The Thrusters Lake needs, but he deserves better."
 
 outfit "Mistral-class Booster"
 
