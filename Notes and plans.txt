@@ -21,7 +21,7 @@ II. Ships
 	
 	-Civilian vessels have large windows showing gardens or parks inside. These can be modeled as domes or just glass-framed apertures on the ship's dorsal surface. I'll need to set a fixed swizzle to accomplish this *or* model the domes as rotationless turrets.
 	
-	-Regime/civilian tends to use an emerald-green for highlights or glowing elements.
+	-Regime/civilian tends to use an emerald-green for highlights or glowing elements. Same swizzle as Sheragi.
 	
 	-Rebels swap the green out for orange, and tend to have crude armor plating bolted where windows used to be. They'll almost exclusively use up-armored, up-gunned civilian ships.
 
@@ -81,9 +81,17 @@ II. Ships
 			Heavy Warship
 			C Speed
 			C Turning
+			Upgraded Hydra; serves as a miniboss/mission target.
+			8 Gun Ports (Mauler/Beam)
+			3 Turrets (Blaster + 1 AM)
+			
+		Hydra Cruiser	
+			Heavy Warship
+			C Speed
+			C Turning
 			Brawler with a deadly frontal arc
 			Dies to what it can't catch up to or maneuver to face
-			8 Gun Ports (Mauler/Beam)
+			6 Gun Ports (Mauler/Beam)
 			2 Turrets (Blaster)
 			
 		Charybydis Destroyer
@@ -105,20 +113,20 @@ II. Ships
 			4 Gun Ports (Mauler)
 			2 Turrets (Blaster)
 			
-		Hydra Corvette
+		Manticore Corvette
 			Light Warship
 			A Speed
 			B Turning
-			Fighter killer
+			Eats fighters for breakfast
 			Vulnerable to heavier vessels
 			2 Gun Ports (Plinker missiles)
 			2 Turrets (Plinker) 
 		
-		Minotaur Corvette
+		Minotaur Bomber
 			Light Warship
 			B Speed
-			B Turning
-			Heavy warship killer
+			D Turning
+			Heavy bomber
 			Vulnerable to fighters and light warships
 			6 Gun Ports (Mauler/Beam)
 			1 Turret (Antimissile)
@@ -127,7 +135,7 @@ II. Ships
 			Interceptor
 			B Speed
 			C Turning
-			Heavy bomber
+			Light bomber
 			Vulnerable to space superiority fighters/light warships
 			4 Gun Ports (2 Maulers, 2 single-shot bombs)
 			1 Turret (Plinker)
@@ -158,11 +166,12 @@ II. Ships
 			1 Gun Port (Single-shot suicide bomb)
 	
 	Civilian/Regime Logistics
-		Prison Transport
+		Cerberus Transport
 			Heavy Transport
 			D Speed
 			D Turning
 			Well armored transport vessel. Tends to self-destruct, well-escorted.
+			Older ones are used as prison hulks, otherwise they serve as heavy troop transports.
 			Plunderable isolation pods which can be returned to the refugees for rewards.
 			6 Turrets (2 Antimissile, 4 Blaster)
 			
@@ -174,7 +183,7 @@ II. Ships
 			Worth looting. Good engines, lootable intelligence, capturable VIPs?
 			2 Turrets (Antimissile, Blaster)
 			
-		Military Transport
+		Chimera Transport
 			Medium Freighter
 			C Speed
 			C Turning
