@@ -117,17 +117,17 @@ II. Ships
 		Minotaur Corvette
 			Light Warship
 			B Speed
-			B Turning
-			Heavy warship killer
+			D Turning
+			Heavy bomber
 			Vulnerable to fighters and light warships
-			6 Gun Ports (Mauler/Beam)
-			1 Turret (Antimissile)
+			6 Gun Ports (4 Maulers, 2 single-shot bombs)
+			1 Turret (Antimissile/Antifighter)
 		
 		Centaur Bomber
 			Interceptor
 			B Speed
 			C Turning
-			Heavy bomber
+			Light bomber
 			Vulnerable to space superiority fighters/light warships
 			4 Gun Ports (2 Maulers, 2 single-shot bombs)
 			1 Turret (Plinker)
