@@ -1,4 +1,4 @@
-#Engines and Drives
+#Engines and Drives Section
 
 outfit "Jump Core"
 	category "Systems"
@@ -85,6 +85,10 @@ outfit "Boreas-class Thruster"
 	description "The Thrusters Lake needs, but he deserves better."
 
 outfit "Mistral-class Booster"
+
+#Weapons Section
+
+outfit "
 
 outfit "Flak Artillery Cannon"
   category "Turrets"
