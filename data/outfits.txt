@@ -88,7 +88,42 @@ outfit "Mistral-class Booster"
 
 #Weapons Section
 
-outfit "
+outfit "Minotaur's Horn"
+	category "Secondary Weapons"
+	cost 1000000
+	thumbnail "outfit/aerospike"
+	"mass" 10
+	"gun ports" -1
+	"underslung mount" -1 
+	weapon
+		sprite "projectile/aerospike"
+			"no repeat"
+			"frame rate" .25
+		sound "nuke"
+		ammo "Minotaur's Horn"
+		stream
+		icon "icon/nuke"
+		"hit effect" "nuke explosion"
+		"hit effect" "nuke residue fast" 10
+		"hit effect" "nuke residue slow" 10
+		"die effect" "missile death"
+		"velocity" -2
+		"lifetime" 800
+		"reload" 10
+		"firing energy" 10
+		"firing heat" 400
+		"acceleration" .025
+		"trigger radius" 30
+		"blast radius" 75
+		"shield piercing" 100
+		"shield damage" 5000
+		"hull damage" 7000
+		"hit force" 4000
+		"missile strength" 200
+	description "It has been centuries since the last nuclear war was fought, and until very recently, most people in the galaxy assumed that that era of chaos and destruction was forever behind us..."
+	description "	[Nuclear missiles are a one-shot weapon: each missile occupies a gun slot, and after it is fired, the slot it was in is left empty.]"
+
+outfit "Gorgon's Gaze"
 
 outfit "Flak Artillery Cannon"
   category "Turrets"

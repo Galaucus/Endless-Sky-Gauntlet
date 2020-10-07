@@ -36,6 +36,7 @@ outfitter "Gauntlet Test"
 	"Nuclear Missile"
 	"dome"
 	"Jump Core"
+	"Minotaur's Horn"
 
 ship "Shade Test/Fighter"
 	plural "Shades"
