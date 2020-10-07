@@ -94,7 +94,7 @@ outfit "Minotaur's Horn"
 	thumbnail "outfit/aerospike"
 	"mass" 10
 	"gun ports" -1
-	"underslung mount" -1 
+	"ventral mount" -1 
 	weapon
 		sprite "projectile/aerospike"
 			"no repeat"
