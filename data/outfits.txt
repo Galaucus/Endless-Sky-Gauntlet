@@ -9,6 +9,7 @@ outfit "Jump Core"
 	"jump speed" .75
 	"jump fuel" 100
 	"jump drive" 1
+	#Jump core really needs some sort of slowed spool-time to be meaningful, probably won't implement it until I have support for that.
 
 outfit "Zephyrus-class Thruster"
 	category "Engines"
@@ -86,6 +87,62 @@ outfit "Boreas-class Thruster"
 
 outfit "Mistral-class Booster"
 
+outfit "tiny gyro"
+
+outfit "small gyro"
+	category "Systems"
+	thmbnail "outfit/unknown"
+	"mass" 20
+	"outfit space" -12
+	"turn" 160
+	"turning energy" 0.1
+	"heat generation" 0.1
+	"energy consumption" 0.2
+	"energy capacity" 1000
+
+outfit "medium gyro"
+
+outfit "large gyro"
+
+outfit "huge gyro"
+
+outfit "tiny flywheel"
+	category "Systems"
+	thumbnail "outfit/unknown"
+	"mass" 12
+	"outfit space" -6
+	"energy capacity" 1500
+	"energy consumption" .3
+	"heat generation" .15
+	
+outfit "medium flywheel"
+	category "Systems"
+	thumbnail "outfit/unknown"
+	"mass" 90
+	"outfit space" -48
+	"energy capacity" 13600
+	"energy consumption" 1.2
+	"heat generation" .9
+
+outfit "huge flywheel"
+	category "Systems"
+	thumbnail "outfit/unknown"
+	"mass" 200
+	"outfit space" -115
+	"energy capacity" 37500
+	"energy consumption" 2.6
+	"heat generation" 2
+
+outfit "tiny generator"
+
+outfit "small generator"
+
+outfit "medium generator"
+
+outfit "large generator"
+
+outfit "huge generator"
+
 #Weapons Section
 
 outfit "Minotaur's Horn"
@@ -128,7 +185,7 @@ outfit "Gorgon's Gaze"
 outfit "Flak Artillery Cannon"
   category "Turrets"
     cost 10
-    thumbnail "placeholder"
+    thumbnail "outfit/unknown"
     "mass" 63
     "outfit space" -63
     "weapon capacity" -63
@@ -177,7 +234,7 @@ outfit "Flak Cannon Submunition"
 
 outfit "Shade Core"
 	category Guns
-	thumbnail outfit/unknown
+	thumbnail "outfit/unknown"
 	gun ports -1
 	"kamikaze" 1
 	weapon
