@@ -87,24 +87,51 @@ outfit "Boreas-class Thruster"
 
 outfit "Mistral-class Booster"
 
-outfit "tiny gyro"
+#Systems section
 
-outfit "small gyro"
+outfit "tiny gyro"
 	category "Systems"
 	thmbnail "outfit/unknown"
 	"mass" 20
 	"outfit space" -12
 	"turn" 160
-	"turning energy" 0.1
+	"turning energy" 0.25
 	"heat generation" 0.1
 	"energy consumption" 0.2
 	"energy capacity" 1000
 
-outfit "medium gyro"
+outfit "small gyro"
+	category "Systems"
+	thmbnail "outfit/unknown"
+	"mass" 40
+	"outfit space" -24
+	"turn" 514
+	"turning energy" 0.5
+	"heat generation" 0.15
+	"energy consumption" 0.3
+	"energy capacity" 2000
 
 outfit "large gyro"
+	category "Systems"
+	thmbnail "outfit/unknown"
+	"mass" 80
+	"outfit space" -48
+	"turn" 1200
+	"turning energy" 0.75
+	"heat generation" 0.3
+	"energy consumption" 0.4
+	"energy capacity" 4000
 
 outfit "huge gyro"
+	category "Systems"
+	thmbnail "outfit/unknown"
+	"mass" 160
+	"outfit space" -96
+	"turn" 2600
+	"turning energy" 0.10
+	"heat generation" 0.4
+	"energy consumption" 0.5
+	"energy capacity" 8000
 
 outfit "tiny flywheel"
 	category "Systems"
