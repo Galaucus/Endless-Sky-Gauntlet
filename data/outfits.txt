@@ -164,11 +164,11 @@ outfit "tiny generator"
 
 outfit "small generator"
 
-outfit "medium generator"
+outfit "Atmosphere-class Angular Siphon"
 
-outfit "large generator"
+outfit "Photosphere-class Angular Siphon"
 
-outfit "huge generator"
+outfit "Ergosphere-class Angular Siphon"
 
 #Weapons Section
 
