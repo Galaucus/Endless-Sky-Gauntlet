@@ -49,7 +49,7 @@ II. Ships
 		
 		Pegasus Battlecruiser
 			Superheavy Warship
-			C+ Speed
+			B Speed
 			C+ Turning
 			Effectively an overclocked Titan. Bigger engines, one large gun.
 			Vulnerable if it loses speed/maneuvering, and to fighter/bomber wings.
