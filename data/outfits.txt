@@ -133,7 +133,7 @@ outfit "huge gyro"
 	"energy consumption" 0.5
 	"energy capacity" 8000
 
-outfit "tiny flywheel"
+outfit "tiny flywheel array"
 	category "Systems"
 	thumbnail "outfit/unknown"
 	"mass" 12
@@ -141,8 +141,9 @@ outfit "tiny flywheel"
 	"energy capacity" 1500
 	"energy consumption" .3
 	"heat generation" .15
+	description "The smallest flywheel arrays used by Avernal shipbuilders aren't that much more advanced than similar systems found in human space - this is largely a result of simply not having enough room to implement the more advanced, but bulky technologies used in larger models.
 	
-outfit "medium flywheel"
+outfit "medium flywheel array"
 	category "Systems"
 	thumbnail "outfit/unknown"
 	"mass" 90
@@ -150,8 +151,9 @@ outfit "medium flywheel"
 	"energy capacity" 13600
 	"energy consumption" 1.2
 	"heat generation" .9
+	description "Avernal philosophy regards all things as constantly in motion, even if they appear otherwise. Advanced materials allow for the wheels of this array to reach angular velocities so high that they appear to be frozen in place; a sophisticated power control system allows for energy to be efficiently dumped off to power ship's systems, or poured in from the generators." 
 
-outfit "huge flywheel"
+outfit "huge flywheel array"
 	category "Systems"
 	thumbnail "outfit/unknown"
 	"mass" 200
@@ -159,6 +161,7 @@ outfit "huge flywheel"
 	"energy capacity" 37500
 	"energy consumption" 2.6
 	"heat generation" 2
+	description "At this scale Avernal flywheel tech begins to borrow design elements from their generators. Momentum control beam-tethers first pioneered to - over the course of millenia - transfer spin to dying stars are, in this flywheel, responsible for energy transmission. These wheels are so heavy and rotate with such speed that were they to break free of their mountins they would certainly destroy the ship that houses them. Happily, this is a defect that only manifests in 4% of manufactured flywheel arrays."
 
 outfit "tiny generator"
 
