@@ -1,25 +1,25 @@
 I. Goals
--Provide repeatable end-game content.
-	-This content will largely take the form of a gauntlet. Missions are structured around the player being given a handful of keys to enter the nebula. The keys are outfits similar to the quantum keystone - you can only bring as many escorts with you as you have keys.
+	Provide repeatable end-game content.
+		-This content will largely take the form of a gauntlet. Missions are structured around the player being given a handful of keys to enter the nebula. The keys are outfits similar to the quantum keystone - you can only bring as many escorts with you as you have keys.
 
--Fully kitting out a ship should require a bit of a grind
+	Fully kitting out a ship should require a bit of a grind
 
--The grind should actually be fun, not frustrating; focus on skill instead of RNG
-	-Getting loot out is best done with a freighter, but heavy freighters are too vulnerable. This rewards nimble/up-gunned freighters, or cargo-modified warships.
+	The grind should actually be fun, not frustrating; focus on skill instead of RNG
+		Getting loot out is best done with a freighter, but heavy freighters are too vulnerable. This rewards nimble/up-gunned freighters, or cargo-modified warships.
 
-	-The player will need a transport or marine-oriented warship in order to capture
-	vessels. Exit should only be possible after completing mission objectives or aborting in order to prevent farms.
+		The player will need a transport or marine-oriented warship in order to capture
+		vessels. Exit should only be possible after completing mission objectives or aborting in order to prevent farms.
 	
-	-Give ships a large disable window, no random boarding failure. Getting loot or spending crew boarding a ship is a decision point, not a lucky break.
+		Give ships a large disable window, no random boarding failure. Getting loot or spending crew boarding a ship is a decision point, not a lucky break.
 	
-	-Themes to explore can include the necessary ruthlesness in fighting against an entrenched empire, trust and suspicion if Regime agents infiltrate the Refugees, and militancy vs secrecy. Having them serve as an aggressive counterpoint to the Remnant's isolation could be interest - both are small offshoots trying to survive.
+	Themes to explore can include the necessary ruthlesness in fighting against an entrenched empire, trust and suspicion if Regime agents infiltrate the Refugees, and militancy vs secrecy. Having them serve as an aggressive counterpoint to the Remnant's isolation could be interest - both are small offshoots trying to survive.
 
 II. Ships
 
 	The general aesthetic for vessels is:
 	-Curved, silvery, front-heavy ships. They resemble metallic teardrops, or roughly T-shapes. Thrusters are mounted on the frontal bulge/wings, and pull rather than push the ship's frame. Elegant rather than industrial shapes are preferred - greebling will be minimal, or hidden behind facades. Minimize the use of straight angles in favor of a flowing contour.
 	
-	-Civilian vessels have large windows showing gardens or parks inside. These can be modeled as domes or just glass-framed apertures on the ship's dorsal surface. I'll need to set a fixed swizzle to accomplish this *or* model the domes as rotationless turrets.
+	-Civilian vessels have large windows showing gardens or aquatic interiors. These can be modeled as domes or just glass-framed apertures on the ship's dorsal surface. I'll need to set a fixed swizzle to accomplish this *or* model the domes as rotationless turrets.
 	
 	-Regime/civilian tends to use an emerald-green for highlights or glowing elements. Same swizzle as Sheragi.
 	
@@ -303,7 +303,16 @@ V. Missions
 			-Land, fill all your bunks with refugees
 			-Escape the nebula
 			
-	Campaign:
+VI. Campaign
+	
+	OVERALL FRAMEWORK:
+		Act I: This act largely deals with the rebel faction getting settled in on Aki'il. The main conflict is between them and their brethren beyond the wormhole. Without any real industrial base, they're largely dependent on aid from the player/Remnant and are forced to remain in-system by the Ka'het. Themes to explore are the societal foundations that led to the split, how the society within the nebula remained stable for so long, and hints at why the Avernals were created by the Pug. 
+		
+		Act II: Thanks to the player's actions, the Avernal escapees have managed to build up an actual industrial base on Kaeyin, as well as a few orbital installations. Within the nebula - again, aided by the player - they've created smuggling networks that regularly divert shipments of advanced goods from Regime factories to Kaeyin. This enables the Avernals to begin pushing past Ka'het space towards the Ember Waste, so as to realize their Pug-given destiny as stellar refurbishers. Contact is made with the Wanderers, who send advisors. Tension between the Wanderers and the Avernals build over disagreement as to the nature of the Pug. The Wanderers view them with reverence, but not the fanaticism which the Avernals do. Avernals insist upon complete control over their projects, often to the displeasure of Wanderer and Remnant characters who've helped them get this far.
+		
+		Act III: The Ka'het have been weakened to a point where supply convoys can move from Aki'il to the Ember Wastes without much worry of anhilation. The Avernals begin blossoming into a regional power, demanding the subservience of those bordering them so as to more efficiently pursue the goal the Pug made them for. The Wanderers desire their cousins to chill out so that they don't self-destruct in their inflexibility. Adventorous people from Remnant space have, by this point, settled into integrated communities in some of the systems the Avernals have begun to repair - whether attracted by scientific curiosity or youthful wanderlust, they're there to stay. Up until now scarcity has kept power relatively balanced, but the Avernals become increasingly intolerant to dissent - a tragic mirror of the persecution they suffered from the established powers within the nebula they escaped from. 
+		
+		Act IV: Coexistence or conflict. The Avernals, incredibly inflexible compared to the Remnant and Wanderers, find that their differences are increasingly irreconcilable. War breaks out in the Ember Wastes; Wanderers withdraw their advisors and mourn the foolishness of their Pug-created brethren. The Player needs to choose between helping the Remnant and the Avernals. Avernal victory will - over the course of millenia - lead to a rebirth of the Ember Wastes into a warm, bountiful region of space. Remnant victory restores their isolation and, after pushing the Avernals back to the Avernus Nebula warmhole in Aki'il, they take over providing the player missions into the gauntlet.
 	
 		Campaign starts with the player boarding a derelict ship in Aki'il. This ship will give the player a Damaged Quantum Key.
 		
@@ -328,8 +337,10 @@ V. Missions
 		Add some sort of news scanner to the spaceport that displays propaganda broadcasts from the Regime.
 		
 
-VI. Integration to other regions
+VII. Integration to other regions
 
 	Short term storytelling potential is the struggles of setting up a refugee society and trying to liberate those still trapped within, alongside more martial escapades like hunting down and eliminating targets in the gauntlet.
 	
-	Long term storytelling potential is the Remnant having their first case of non-hostile foreign contact, the potential uncorking of a species the Pug had sealed away, and whatever - if anything - this had to do with the Builders and Ka'het.
+	Relations with the Remnant might come from sharing worlds made newly-habitable in the Ember Wastes.
+	
+	Relationship with the Wanderers will be one of rivalrous cooperation. The Pug "loyalists" view themselves as the rightful heirs of restorative work in the galaxy, and though they accept help from the Wanderers, they refuse to grant their avian cousins any control over the project.
